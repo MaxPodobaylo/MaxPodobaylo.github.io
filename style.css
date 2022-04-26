@@ -129,20 +129,7 @@ body {
       border-top: none;
       border-bottom: none;
    }
-   .footer-nav a{
-      margin: 0 40px;
-   }
-   .footer-nav li a:hover {
-      
-      border-bottom: none;
-     
-   }
    
-   .footer-nav li a:active {
-      
-      border-bottom: none;
-      
-   }
    .footer-logo{
       padding-left: 15px;
       
